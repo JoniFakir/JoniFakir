@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Joni Fakir banner" width="100%" />
+<img src="[./assets/banner.png](https://i.ibb.co.com/ksMswHJj/joni-fakir-github-banner.png)" alt="Joni Fakir banner" width="100%" />
 
 <br />
 
 <a href="https://www.linkedin.com/in/jonifakir/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2](https://www.linkedin.com/in/jonifakir/)?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdjohnny063@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,7 +20,7 @@
 
 ## About me
 
-I'm a Full-Stack Software Developer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with 2+ years of experience building modern, scalable, and user-centric web applications.
+I'm a Full-Stack Software Developer specialising in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with 2+ years of experience building modern, scalable, and user-centric web applications.
 
 I care about writing clean, maintainable code and designing systems that hold up under real-world use — from secure RESTful APIs to responsive front-end experiences. Alongside development, I work with **AWS** (EC2, S3, Lambda, API Gateway) to deploy and scale applications using DevOps best practices.
 
