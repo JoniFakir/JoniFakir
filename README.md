@@ -82,12 +82,12 @@ Role-based web app for managing employee tasks, payments, and admin workflows â€
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=johhny47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johhny47&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoniFakir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniFakir&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johhny47&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoniFakir&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,6 +106,6 @@ Role-based web app for managing employee tasks, payments, and admin workflows â€
 
 <br /><br />
 
-![Profile views](https://komarev.com/ghpvc/?username=johhny47&color=14b8a6&style=flat-square&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=JoniFakir&color=14b8a6&style=flat-square&label=Profile+views)
 
 </div>
