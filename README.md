@@ -82,10 +82,7 @@ Role-based web app for managing employee tasks, payments, and admin workflows â€
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoniFakir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniFakir&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoniFakir&theme=tokyonight&hide_border=true" />
 
