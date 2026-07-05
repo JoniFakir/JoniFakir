@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="[./assets/banner.png](https://i.ibb.co.com/ksMswHJj/joni-fakir-github-banner.png)" alt="Joni Fakir banner" width="100%" />
+<img src="https://i.ibb.co.com/ksMswHJj/joni-fakir-github-banner.png" alt="Joni Fakir banner" width="100%" />
 
 <br />
 
 <a href="https://www.linkedin.com/in/jonifakir/">
-  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2](https://www.linkedin.com/in/jonifakir/)?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.linkedin.com/in/jonifakir/?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:mdjohnny063@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
